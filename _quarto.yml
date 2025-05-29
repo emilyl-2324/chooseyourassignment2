@@ -9,6 +9,14 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: resume.qmd
+        text: resume
+      - href: free_for_all_page.qmd
+        text: free for all page
+      - href: resources.qmd
+        text: resources
+      - href: about_me.qmd
+        text: about me
 
 format:
   html:

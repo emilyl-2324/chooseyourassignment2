@@ -6,7 +6,7 @@ title: "Emily Lombardi"
 Hi, I'm an environmental studies student at ucsb. 
 
 ---
-title: "Finley Malloc"
+title: "Emily Lombardi"
 about:
   template: jolla
   image: profile.jpg

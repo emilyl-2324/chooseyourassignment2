@@ -1,6 +1,5 @@
 ---
 title: "ENV S149 Final Project"
-subtitle: "Food, Longevity, and Climate Mitigation: Why We Must Learn From Blue Zones"
 description: "Op-Ed: Food, Longevity, and Climate Mitigation: Why We Must Learn From Blue Zones"
 image: "project_posts_img/es149oped.jpg"
 links:
@@ -9,10 +8,15 @@ links:
 format: html
 ---
 
-
 ![](project_posts_img/es149oped.jpg)
 
-In the op-ed, I talk about the health and environmental benefits of adopting a blue-zone diet.
+In the Op-Ed, I discuss the health and environmental benefits of adopting a blue-zone diet.
+
+You can read the full Op-Ed by clicking the button below:
+
+::: {.btn .btn-primary target="_blank" href="https://docs.google.com/document/d/1ABt8U8tt6ABeyLuljD16KsjoFdXTL2wfPGMLQJDJ30Q/edit?usp=sharing"}
+Open Google Doc
+:::
 
 ::: {layout="[1, 1]"}
 :::

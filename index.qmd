@@ -1,7 +1,6 @@
 ---
 title: "Emily Lombardi"
 ---
-
 # Bio:
 
 Hi, I'm an environmental studies student at ucsb.
@@ -12,24 +11,14 @@ about:
   template: jolla
   image: Screenshot_2025-06-11 124652.jpg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
+    - icon: envelope
+      text: Gmail
+      href: emilylombardi@ucsb.edu
     - icon: github
       text: Github
       href: https://github.com/emilyl-2324 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/emily-l-97bb122ab/ 
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
-
-## Education
-
-University of California, San Diego \| San Diego, CA PhD in Mathematics \| Sept 2011 - June 2015
-
-Macalester College \| St. Paul, MN B.A in Economics \| Sept 2007 - June 2011
-
-## Experience
-
-Wengo Analytics \| Head Data Scientist \| April 2018 - present
-
-GeoScynce \| Chief Analyst \| Spet 2012 - April 2018

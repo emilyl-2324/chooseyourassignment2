@@ -5,13 +5,14 @@ project:
 website:
   title: "chooseyourassignment2"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: about
-      - href: resume.qmd
-        text: resume
+      - href: resume.emilylombardi.spring2025.sweetwheelfarms(1).pdf # providing a relative file path to a pdf will open up a browser-based pdf viewer when clicked
+        text: CV
+        target: _blank # opens link (or page) in a new browser tab
       - href: free_for_all_page.qmd
         text: free for all page
       - href: resources.qmd

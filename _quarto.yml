@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "chooseyourassignment2"
+  title: "Emily Lombardi"
   navbar:
     right:
       - href: index.qmd
@@ -23,7 +23,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      - minty
       - brand
     css: styles.css
     toc: true

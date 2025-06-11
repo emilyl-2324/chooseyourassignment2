@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "project_posts/149.html",
+    "href": "project_posts/149.html",
+    "title": "ENV S149 Final Project",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "In the op-ed, I…"
   },
   {
     "objectID": "index.html",
@@ -14,38 +14,17 @@
     "text": "Hi, I’m a third year environmental studies student at UCSB!"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Emily Lombardi",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Emily Lombardi",
-    "section": "",
-    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "projects_page.html",
     "href": "projects_page.html",
-    "title": "Research",
+    "title": "Projects",
     "section": "",
     "text": "I am a research assistant at UCSB, working in both the Anderegg Landscape Ecoph\n\n\n\n\n\n\n\n\n\n\n\n\nENV S149 Final Project\n\n\nadd description of op-ed\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "project_posts/149.html",
-    "href": "project_posts/149.html",
-    "title": "ENV S149 Final Project",
-    "section": "",
-    "text": "In the op-ed, I…"
-  },
-  {
-    "objectID": "project_posts/149.html#final-op-ed-google-doc-embed",
-    "href": "project_posts/149.html#final-op-ed-google-doc-embed",
-    "title": "ENV S149 Final Project",
-    "section": "",
-    "text": "In the op-ed, I…"
   }
 ]

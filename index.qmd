@@ -1,10 +1,5 @@
 ---
 title: "Emily Lombardi"
----
-Hi, I'm a third year environmental studies student at UCSB!
-
----
-title: "Emily Lombardi"
 about:
   template: jolla
   image: Screenshot_2025-06-11 124652.jpg
@@ -20,3 +15,4 @@ about:
       href: https://www.linkedin.com/in/emily-l-97bb122ab/ 
 ---
 
+Hi, I'm a third year environmental studies student at UCSB!

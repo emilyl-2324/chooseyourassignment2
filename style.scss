@@ -1,0 +1,44 @@
+/*-- scss:defaults --*/
+
+$dark-green: #54BDC2;
+$light-green: #F5F2D8;
+$cream: #E6F5B6;
+$gray: #64605f;
+$purple: #98D7B7;
+$orange: #ad7237;
+
+// Base document colors
+$navbar-bg: $light-green;
+$navbar-fg: $dark-green;
+$navbar-hl: $purple;
+$body-bg: $light-green;
+$body-color: $gray;
+$footer-bg: $cream;
+$link-color: $purple;
+$code-bg: $cream;
+$code-color: $purple;
+
+/*-- scss:rules --*/
+
+.btn-primary {
+  background-color: $purple;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+}
+
+.btn-primary:hover {
+  background-color: darken($purple, 10%);
+}
+
+
+.listing-grid .card {
+  background-color: white;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.08);
+  padding: 1rem;
+}
+

@@ -20,9 +20,7 @@ website:
 
 format:
   html:
-    theme:
-      - minty
-      - brand
+    theme: style.scss
     css: styles.css
     toc: true
 

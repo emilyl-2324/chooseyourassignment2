@@ -1,13 +1,12 @@
 ---
 title: "ENV S149 Final Project"
 description: "add description of op-ed"
-categories:
-  - Assisting On
-filters: 
-  - lightbox
-lightbox: auto
+links:
+     - text: ENV S149 Op-Ed
+       href: https://docs.google.com/document/d/1ABt8U8tt6ABeyLuljD16KsjoFdXTL2wfPGMLQJDJ30Q/edit?usp=sharing 
 ---
 
-In the op-ed, I...
+In the op-ed, I... 
+
 
 ::: {layout="[1, 1]"}

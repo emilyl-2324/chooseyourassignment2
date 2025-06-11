@@ -1,9 +1,7 @@
 ---
 title: "Emily Lombardi"
 ---
-# Bio:
-
-Hi, I'm an environmental studies student at ucsb.
+Hi, I'm a third year environmental studies student at UCSB!
 
 ---
 title: "Emily Lombardi"

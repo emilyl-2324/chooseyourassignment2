@@ -18,6 +18,7 @@ about:
     - icon: github
       text: Github
       href: https://github.com/emilyl-2324 
+---
 
 Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
 

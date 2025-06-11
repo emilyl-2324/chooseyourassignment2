@@ -8,10 +8,10 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: about.qmd
+      - href: about_me.qmd
         text: About
       - href: resume.emilylombardi.spring2025.sweetwheelfarms(1).pdf # providing a relative file path to a pdf will open up a browser-based pdf viewer when clicked
-        text: CV
+        text: Resume
         target: _blank # opens link (or page) in a new browser tab
       - href: free_for_all_page.qmd
         text: free for all page

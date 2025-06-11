@@ -4,6 +4,7 @@ description: "add description of op-ed"
 links:
      - text: ENV S149 Op-Ed
        href: https://docs.google.com/document/d/1ABt8U8tt6ABeyLuljD16KsjoFdXTL2wfPGMLQJDJ30Q/edit?usp=sharing 
+image: es149oped.jpg
 ---
 
 In the op-ed, I... 

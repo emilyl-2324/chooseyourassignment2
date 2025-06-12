@@ -20,8 +20,8 @@ website:
 
 format:
   html:
-    theme: minty
     css: style.scss
+    theme: minty
     toc: true
 
 editor: visual

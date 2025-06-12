@@ -1,1 +1,58 @@
-/* css styles */
+/*-- scss:defaults --*/
+
+$dark-green: #54CDC2;
+$cream: #F5F2D8;
+$yellow: #E6F5B6;
+$gray: #64605f;
+$teal: #98D7B7;
+$orange: #ad7237;
+
+// Base document colors
+$navbar-bg: $dark-green;
+$body-bg: $cream;
+$body-color: $gray;
+$link-color: $teal;
+$code-color: $teal; 
+
+/*-- scss:rules --*/
+
+.btn-primary {
+  background-color: $teal;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+}
+
+.btn-primary:hover {
+  background-color: darken($teal, 10%);
+}
+
+.card {
+  background-color: #fffeee !important;  /* white card background */
+  border: none;
+  border-radius: 0.5rem;                 /* round corners */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden; 
+}
+
+.card-body {
+  background-color: #fffef5 !important;              /*card body is cream */
+}
+
+/* change font to times new roman */
+body {
+  font-family: 'Times New Roman', sans-serif;
+}
+
+
+/* make tabset panel background white */
+.panel-tabset .tab-content {
+  background-color: #fffef5;  /* White background */
+}
+
+/*also make the tabs white */
+.panel-tabset .nav-tabs {
+  background-color: #fffef5;
+}

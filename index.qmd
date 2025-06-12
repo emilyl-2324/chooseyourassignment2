@@ -15,4 +15,4 @@ about:
       href: https://www.linkedin.com/in/emily-l-97bb122ab/ 
 ---
 
-Hi, I'm a third year environmental studies student at UCSB!
+Hi, I'm a third year environmental studies student at UCSB! This is my personal website that I built using Rstudio.

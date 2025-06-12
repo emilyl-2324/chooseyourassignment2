@@ -7,12 +7,6 @@ $gray: #64605f;
 $teal: #98D7B7;
 $orange: #ad7237;
 
-// Base document colors
-$navbar-bg: $dark-green;
-$body-bg: $cream;
-$body-color: $gray;
-$link-color: $teal;
-$code-color: $teal; 
 
 /*-- scss:rules --*/
 
@@ -45,7 +39,6 @@ $code-color: $teal;
 body {
   font-family: 'Times New Roman', sans-serif;
 }
-
 
 /* make tabset panel background white */
 .panel-tabset .tab-content {

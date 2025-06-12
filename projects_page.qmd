@@ -6,4 +6,4 @@ listing:
   sort: "date desc" # can also sort on more than one field
 ---
 
-Below are projects I've completed in several environmental studies courses.
+Below are some of the projects I've completed from environmental studies courses.

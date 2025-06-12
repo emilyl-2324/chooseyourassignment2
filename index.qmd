@@ -6,7 +6,7 @@ about:
   links:
     - icon: envelope
       text: Gmail
-      href: emilylombardi@ucsb.edu
+      href: "mailto:emilylombardi@ucsb.edu"
     - icon: github
       text: Github
       href: https://github.com/emilyl-2324 

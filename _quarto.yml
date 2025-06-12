@@ -14,14 +14,14 @@ website:
         text: Resume
         target: _blank # opens link (or page) in a new browser tab
       - href: free_for_all_page.qmd
-        text: free for all page
+        text: Interests
       - href: projects_page.qmd
         text: Projects
 
 format:
   html:
-    theme: style.scss
-    css: styles.css
+    theme: minty
+    css: style.scss
     toc: true
 
 editor: visual

@@ -1,12 +1,21 @@
 /*-- scss:defaults --*/
 
-$dark-green: #54CDC2;
+$dark-green: #67a384;
 $cream: #F5F2D8;
 $yellow: #E6F5B6;
 $gray: #64605f;
 $teal: #98D7B7;
 $orange: #ad7237;
 
+// Base document colors
+// Base document colors
+$navbar-bg: $teal; // navbar
+$navbar-fg: $cream; // navbar foreground elements
+$navbar-hl: $dark-green; // highlight color when hovering over navbar links
+$body-bg: white; // page background 
+$body-color: $gray; // page text 
+$footer-bg: $cream; // footer 
+$link-color: $teal; // hyperlinks 
 
 /*-- scss:rules --*/
 
@@ -20,7 +29,7 @@ $orange: #ad7237;
 }
 
 .btn-primary:hover {
-  background-color: darken($teal, 10%);
+  background-color: darken($gray, 10%);
 }
 
 .card {

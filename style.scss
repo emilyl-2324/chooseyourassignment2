@@ -34,17 +34,22 @@ $code-color: $teal;
   border: none;
   border-radius: 0.5rem;                 /* round corners */
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  overflow: hidden;
+  overflow: hidden; 
 }
 
 .card-body {
-  background-color: #fffef5;              /*card body is cream */
+  background-color: #fffef5 !important;              /*card body is cream */
 }
 
 /* change font to times new roman */
 body {
   font-family: 'Times New Roman', sans-serif;
 }
+
+body {
+  border: 10px solid red;
+}
+
 
 /* make tabset panel background white */
 .panel-tabset .tab-content {

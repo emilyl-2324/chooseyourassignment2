@@ -1,0 +1,17 @@
+---
+title: "ENV S145 Final Project"
+description: "In Depth Q&A: Could Changing Our Food Systems Solve The Climate Crisis?"
+image: "project_posts_img/es145paper.jpg"
+links:
+  - text: "ENV S145 In Depth Q&A"
+    href: "https://docs.google.com/document/d/1qyW3mSxKO9Fa_DY-T4TZHV58nUBZvbGQdp8B6h1iCr8/edit?usp=sharing"
+format: html
+---
+
+![](project_posts_img/es145paper.jpg)
+
+This report aims to answer the question, “Could changing our food systems solve the climate crisis?” My project group approached this analysis by using a bottom-up structure to look at each level of the food system and its contribution to greenhouse gas emissions as well as the mitigation potential within each level.
+
+You can read the full report by clicking the button below:
+
+[Open Google Doc](https://docs.google.com/document/d/1qyW3mSxKO9Fa_DY-T4TZHV58nUBZvbGQdp8B6h1iCr8/edit?usp=sharing){.btn .btn-primary target="_blank"}

@@ -1,4 +1,27 @@
 ---
-title: "about me"
+title: "About"
 format: html
 ---
+
+::: panel-tabset
+## Bio
+
+Hi! I’m Emily Lombardi, a student passionate about integrating environmental science, sustainability, and social justice. I’m particularly interested in learning how to address environmental challenges through solutions that also promote social equity— specifically by improving food security, increasing access to healthy, affordable food, and reducing our reliance on industrial agriculture.
+
+## Research Interests
+
+-   Climate change mitigation\
+-   Sustainable food systems / food security
+-   Environmental communication
+
+## Education
+
+**Bachelor's of Science, Environmental Studies** University of California, Santa Barbara, Sep 2022 - June 2026
+
+:::
+
+![](project_posts/project_posts_img/bio4.jpg)
+
+![](project_posts/project_posts_img/bio2.jpg)
+
+![](project_posts/project_posts_img/bio1.jpg)

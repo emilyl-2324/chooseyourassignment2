@@ -1,0 +1,15 @@
+---
+title: "ENV S40 Research Project"
+description: "NEWater: A Case Study of Singapore’s Water Management and What California Can Adopt From Them"
+image: "project_posts_img/es40paper.jpg"
+links:
+  - text: "ENV S40 Research Project"
+    href: "https://docs.google.com/document/d/1QIKHylPWpKAA7t6InWjes1sioWQaNH8vTFRUhdAhqBU/edit?usp=sharing"
+format: html
+---
+
+![](project_posts_img/es40paper.jpg)
+
+You can read the full research paper by clicking the button below:
+
+[Open Google Doc](https://docs.google.com/document/d/1QIKHylPWpKAA7t6InWjes1sioWQaNH8vTFRUhdAhqBU/edit?usp=sharing){.btn .btn-primary target="_blank"}

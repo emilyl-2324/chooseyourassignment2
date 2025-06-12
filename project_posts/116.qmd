@@ -1,0 +1,17 @@
+---
+title: "ENV S116 Final Project"
+description: "The Sinking of Indonesia's Capital City"
+image: "project_posts_img/es116paper.jpg"
+links:
+  - text: "The Sinking of Indonesia's Capital City"
+    href: "https://drive.google.com/file/d/179ifTihUC7SoEcaHvPwtR9uzTlSAMtD2/view?usp=sharing"
+format: html
+---
+
+![](project_posts_img/es116paper.jpg)
+
+Jakarta, the capital of Indonesia, is a major port city. It's built on a delta and 13 rivers flow through the city before entering Jakarta Bay. The metropolis is also the center of administration, economy, culture, and entertainment. However, 40% of Jakarta is below sea level and Northern parts of the city are seeing a land subsidence rate of 11 inches per year, putting the homes of 4.5 million people at risk of flooding. Additionally, less than half of the population has access to piped water...
+
+You can read the full report by clicking the button below:
+
+[Open Google Doc](https://drive.google.com/file/d/179ifTihUC7SoEcaHvPwtR9uzTlSAMtD2/view?usp=sharing){.btn .btn-primary target="_blank"}

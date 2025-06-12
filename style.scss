@@ -1,6 +1,6 @@
 /*-- scss:defaults --*/
 
-$dark-green: #54BDC2;
+$dark-green: #54CDC2;
 $cream: #F5F2D8;
 $yellow: #E6F5B6;
 $gray: #64605f;
@@ -9,13 +9,9 @@ $orange: #ad7237;
 
 // Base document colors
 $navbar-bg: $dark-green;
-$navbar-fg: $yellow;
-$navbar-hl: $teal;
 $body-bg: $cream;
 $body-color: $gray;
-$footer-bg: $yellow;
 $link-color: $teal;
-$code-bg: $yellow;
 $code-color: $teal; 
 
 /*-- scss:rules --*/
@@ -44,35 +40,15 @@ $code-color: $teal;
 }
 
 .grid .card-body {
-  background-color: #fffef5;              /*card body is white */
-}
-/* title color */
-.grid .card-title {
-  color: #2a2a2a;  /* darker gray */
-  font-weight: 600;
+  background-color: #fffef5;              /*card body is cream */
 }
 
-/* subtitle or description */
-.grid .card-text {
-  color: #555555;
-}
-
-/* data or metadata (if visible) */
-.grid .listing-date {
-  color: #999999;
-  font-size: 0.85rem;
-}
 
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
 
-/* set default font for whole site */
+/* change font to times new roman */
 body {
-  font-family: 'Lato', sans-serif;
-}
-
-/* customize headers  */
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Times New Roman', sans-serif;
 }
 
 /* make tabset panel background white */

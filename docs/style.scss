@@ -30,7 +30,7 @@ $code-color: $teal;
 }
 
 
-.grid .card {
+.listing-grid .card {
   background-color: #fffeee !important;  /* white card background */
   border: none;
   border-radius: 0.5rem;                 /* round corners */
@@ -38,12 +38,9 @@ $code-color: $teal;
   overflow: hidden;
 }
 
-.grid .card-body {
+.listing-grid .card-body {
   background-color: #fffef5;              /*card body is cream */
 }
-
-
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
 
 /* change font to times new roman */
 body {
